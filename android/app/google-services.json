@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215930717754",
+    "project_id": "autocar-5fd51",
+    "storage_bucket": "autocar-5fd51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215930717754:android:73d62804e72eb3dc159703",
+        "android_client_info": {
+          "package_name": "com.example.tasty_bites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUETbWc9Z01kj60st-fC4W_a_P5Z48j40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
